@@ -21,20 +21,19 @@ The work is currently at the simulation and experimental-validation stage. Initi
 
 ## Estimated Parameters
 
-The neural network is designed to predict seven continuous-valued parameters:
+The neural network predicts seven continuous-valued parameters:
 
-\[
-\mathbf{y} =
-[A_a,A_b,A_c,\phi_a,\phi_b,\phi_c,f]^T
-\]
+**Output vector:**
+
+`y = [A_a, A_b, A_c, phi_a, phi_b, phi_c, f]^T`
 
 where:
 
-- \(A_a,A_b,A_c\): fundamental voltage amplitudes of phases A, B, and C.
-- \(\phi_a,\phi_b,\phi_c\): fundamental phase angles of the three phases.
-- \(f\): fundamental frequency.
+- `A_a`, `A_b`, and `A_c` represent the fundamental voltage amplitudes of phases A, B, and C, respectively.
+- `phi_a`, `phi_b`, and `phi_c` represent the fundamental phase angles of the three phases.
+- `f` denotes the fundamental grid frequency.
 
-The input consists of sampled voltage waveforms from all three phases. If each phase contributes \(N\) samples, the input contains \(3N\) features.
+The input consists of sampled voltage waveforms from all three phases. If each phase contributes `N` samples, the input feature vector contains `3N` elements.
 
 ## Methodology
 
