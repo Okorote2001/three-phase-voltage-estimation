@@ -1,0 +1,169 @@
+DatasetSize,TestSet,Severity,Output,Unit,MAE,RMSE
+1000,InternalTest,Overall,Amplitude A (V peak),V peak,8.974121,10.84697
+1000,InternalTest,Overall,Amplitude B (V peak),V peak,9.008924,10.84149
+1000,InternalTest,Overall,Amplitude C (V peak),V peak,8.912436,10.76409
+1000,InternalTest,Overall,Phase A (deg),deg,0.3128585,0.3850193
+1000,InternalTest,Overall,Phase B (deg),deg,0.3252766,0.4359159
+1000,InternalTest,Overall,Phase C (deg),deg,0.2928644,0.4124933
+1000,InternalTest,Overall,Frequency (Hz),Hz,0.07199102,0.09584924
+1000,InternalTest,Moderate,Amplitude A (V peak),V peak,9.165349,10.96614
+1000,InternalTest,Moderate,Amplitude B (V peak),V peak,9.242315,11.1166
+1000,InternalTest,Moderate,Amplitude C (V peak),V peak,9.216073,11.05251
+1000,InternalTest,Moderate,Phase A (deg),deg,0.2672471,0.3310368
+1000,InternalTest,Moderate,Phase B (deg),deg,0.2617081,0.3407727
+1000,InternalTest,Moderate,Phase C (deg),deg,0.2293128,0.2957796
+1000,InternalTest,Moderate,Frequency (Hz),Hz,0.05709743,0.07413904
+1000,InternalTest,Severe,Amplitude A (V peak),V peak,8.209207,10.35661
+1000,InternalTest,Severe,Amplitude B (V peak),V peak,8.075359,9.66305
+1000,InternalTest,Severe,Amplitude C (V peak),V peak,7.697891,9.523478
+1000,InternalTest,Severe,Phase A (deg),deg,0.4953038,0.5503252
+1000,InternalTest,Severe,Phase B (deg),deg,0.5795507,0.6968564
+1000,InternalTest,Severe,Phase C (deg),deg,0.5470708,0.7076803
+1000,InternalTest,Severe,Frequency (Hz),Hz,0.1315654,0.1547546
+1000,CommonTest,Overall,Amplitude A (V peak),V peak,8.620658,10.56579
+1000,CommonTest,Overall,Amplitude B (V peak),V peak,8.609926,10.55182
+1000,CommonTest,Overall,Amplitude C (V peak),V peak,8.661548,10.60798
+1000,CommonTest,Overall,Phase A (deg),deg,0.3001704,0.3981684
+1000,CommonTest,Overall,Phase B (deg),deg,0.3446187,0.4497143
+1000,CommonTest,Overall,Phase C (deg),deg,0.2730617,0.3606044
+1000,CommonTest,Overall,Frequency (Hz),Hz,0.06906521,0.09068453
+1000,CommonTest,Moderate,Amplitude A (V peak),V peak,8.63811,10.56157
+1000,CommonTest,Moderate,Amplitude B (V peak),V peak,8.699018,10.62507
+1000,CommonTest,Moderate,Amplitude C (V peak),V peak,8.684689,10.62509
+1000,CommonTest,Moderate,Phase A (deg),deg,0.2556542,0.3291873
+1000,CommonTest,Moderate,Phase B (deg),deg,0.2950274,0.3716966
+1000,CommonTest,Moderate,Phase C (deg),deg,0.230147,0.2936541
+1000,CommonTest,Moderate,Frequency (Hz),Hz,0.05755875,0.07278468
+1000,CommonTest,Severe,Amplitude A (V peak),V peak,8.551422,10.58252
+1000,CommonTest,Severe,Amplitude B (V peak),V peak,8.256513,10.25611
+1000,CommonTest,Severe,Amplitude C (V peak),V peak,8.569749,10.53986
+1000,CommonTest,Severe,Phase A (deg),deg,0.4767612,0.5979729
+1000,CommonTest,Severe,Phase B (deg),deg,0.5413418,0.6756179
+1000,CommonTest,Severe,Phase C (deg),deg,0.4432994,0.5511771
+1000,CommonTest,Severe,Frequency (Hz),Hz,0.1147101,0.1408229
+2000,InternalTest,Overall,Amplitude A (V peak),V peak,7.35206,9.218155
+2000,InternalTest,Overall,Amplitude B (V peak),V peak,7.438137,9.378613
+2000,InternalTest,Overall,Amplitude C (V peak),V peak,7.477355,9.375966
+2000,InternalTest,Overall,Phase A (deg),deg,0.2716749,0.3626613
+2000,InternalTest,Overall,Phase B (deg),deg,0.3170177,0.4126947
+2000,InternalTest,Overall,Phase C (deg),deg,0.2890314,0.375382
+2000,InternalTest,Overall,Frequency (Hz),Hz,0.05909265,0.0776505
+2000,InternalTest,Moderate,Amplitude A (V peak),V peak,7.321712,9.21036
+2000,InternalTest,Moderate,Amplitude B (V peak),V peak,7.358705,9.28182
+2000,InternalTest,Moderate,Amplitude C (V peak),V peak,7.360255,9.268281
+2000,InternalTest,Moderate,Phase A (deg),deg,0.2395209,0.300873
+2000,InternalTest,Moderate,Phase B (deg),deg,0.2799776,0.350093
+2000,InternalTest,Moderate,Phase C (deg),deg,0.2504647,0.3102439
+2000,InternalTest,Moderate,Frequency (Hz),Hz,0.05028412,0.06280378
+2000,InternalTest,Severe,Amplitude A (V peak),V peak,7.519633,9.261086
+2000,InternalTest,Severe,Amplitude B (V peak),V peak,7.87674,9.896055
+2000,InternalTest,Severe,Amplitude C (V peak),V peak,8.12395,9.949618
+2000,InternalTest,Severe,Phase A (deg),deg,0.4492207,0.5982534
+2000,InternalTest,Severe,Phase B (deg),deg,0.5215434,0.6587792
+2000,InternalTest,Severe,Phase C (deg),deg,0.501987,0.6225065
+2000,InternalTest,Severe,Frequency (Hz),Hz,0.1077311,0.1324538
+2000,CommonTest,Overall,Amplitude A (V peak),V peak,8.40894,10.29313
+2000,CommonTest,Overall,Amplitude B (V peak),V peak,8.446568,10.35414
+2000,CommonTest,Overall,Amplitude C (V peak),V peak,8.419587,10.27551
+2000,CommonTest,Overall,Phase A (deg),deg,0.2757189,0.3688193
+2000,CommonTest,Overall,Phase B (deg),deg,0.3116338,0.4101489
+2000,CommonTest,Overall,Phase C (deg),deg,0.2523723,0.3326606
+2000,CommonTest,Overall,Frequency (Hz),Hz,0.05834315,0.07868896
+2000,CommonTest,Moderate,Amplitude A (V peak),V peak,8.430661,10.30819
+2000,CommonTest,Moderate,Amplitude B (V peak),V peak,8.51184,10.43733
+2000,CommonTest,Moderate,Amplitude C (V peak),V peak,8.414486,10.27397
+2000,CommonTest,Moderate,Phase A (deg),deg,0.2336109,0.3008784
+2000,CommonTest,Moderate,Phase B (deg),deg,0.264966,0.3340016
+2000,CommonTest,Moderate,Phase C (deg),deg,0.2142509,0.2716575
+2000,CommonTest,Moderate,Frequency (Hz),Hz,0.04771783,0.06033131
+2000,CommonTest,Severe,Amplitude A (V peak),V peak,8.322776,10.23317
+2000,CommonTest,Severe,Amplitude B (V peak),V peak,8.187637,10.01733
+2000,CommonTest,Severe,Amplitude C (V peak),V peak,8.439816,10.28163
+2000,CommonTest,Severe,Phase A (deg),deg,0.4427564,0.5626016
+2000,CommonTest,Severe,Phase B (deg),deg,0.4967593,0.6269018
+2000,CommonTest,Severe,Phase C (deg),deg,0.4035957,0.5068566
+2000,CommonTest,Severe,Frequency (Hz),Hz,0.1004927,0.1277333
+5000,InternalTest,Overall,Amplitude A (V peak),V peak,1.798535,2.496614
+5000,InternalTest,Overall,Amplitude B (V peak),V peak,1.788684,2.430578
+5000,InternalTest,Overall,Amplitude C (V peak),V peak,1.753688,2.433115
+5000,InternalTest,Overall,Phase A (deg),deg,0.1963019,0.2778647
+5000,InternalTest,Overall,Phase B (deg),deg,0.2064621,0.2942766
+5000,InternalTest,Overall,Phase C (deg),deg,0.1871741,0.2701952
+5000,InternalTest,Overall,Frequency (Hz),Hz,0.03785999,0.0566
+5000,InternalTest,Moderate,Amplitude A (V peak),V peak,1.460271,1.845046
+5000,InternalTest,Moderate,Amplitude B (V peak),V peak,1.512089,1.894283
+5000,InternalTest,Moderate,Amplitude C (V peak),V peak,1.412806,1.795848
+5000,InternalTest,Moderate,Phase A (deg),deg,0.1560605,0.2030861
+5000,InternalTest,Moderate,Phase B (deg),deg,0.1647556,0.2159996
+5000,InternalTest,Moderate,Phase C (deg),deg,0.1417541,0.1830591
+5000,InternalTest,Moderate,Frequency (Hz),Hz,0.02727321,0.03545554
+5000,InternalTest,Severe,Amplitude A (V peak),V peak,3.14039,4.177914
+5000,InternalTest,Severe,Amplitude B (V peak),V peak,2.885907,3.886969
+5000,InternalTest,Severe,Amplitude C (V peak),V peak,3.105926,4.075625
+5000,InternalTest,Severe,Phase A (deg),deg,0.355935,0.4689106
+5000,InternalTest,Severe,Phase B (deg),deg,0.3719069,0.495023
+5000,InternalTest,Severe,Phase C (deg),deg,0.3673498,0.4792461
+5000,InternalTest,Severe,Frequency (Hz),Hz,0.07985657,0.1045226
+5000,CommonTest,Overall,Amplitude A (V peak),V peak,1.841115,2.491398
+5000,CommonTest,Overall,Amplitude B (V peak),V peak,1.880084,2.532877
+5000,CommonTest,Overall,Amplitude C (V peak),V peak,1.794686,2.456737
+5000,CommonTest,Overall,Phase A (deg),deg,0.2018297,0.2808732
+5000,CommonTest,Overall,Phase B (deg),deg,0.2179015,0.3009696
+5000,CommonTest,Overall,Phase C (deg),deg,0.1667225,0.2326745
+5000,CommonTest,Overall,Frequency (Hz),Hz,0.03593026,0.0527549
+5000,CommonTest,Moderate,Amplitude A (V peak),V peak,1.5457,1.918869
+5000,CommonTest,Moderate,Amplitude B (V peak),V peak,1.548574,1.937476
+5000,CommonTest,Moderate,Amplitude C (V peak),V peak,1.451216,1.81595
+5000,CommonTest,Moderate,Phase A (deg),deg,0.1634568,0.2082896
+5000,CommonTest,Moderate,Phase B (deg),deg,0.1739025,0.2214536
+5000,CommonTest,Moderate,Phase C (deg),deg,0.1344348,0.1732025
+5000,CommonTest,Moderate,Frequency (Hz),Hz,0.02676346,0.03463088
+5000,CommonTest,Severe,Amplitude A (V peak),V peak,3.012992,4.02784
+5000,CommonTest,Severe,Amplitude B (V peak),V peak,3.195146,4.119944
+5000,CommonTest,Severe,Amplitude C (V peak),V peak,3.157194,4.110525
+5000,CommonTest,Severe,Phase A (deg),deg,0.3540505,0.4687588
+5000,CommonTest,Severe,Phase B (deg),deg,0.3924404,0.5053428
+5000,CommonTest,Severe,Phase C (deg),deg,0.294804,0.3871583
+5000,CommonTest,Severe,Frequency (Hz),Hz,0.07229391,0.09521429
+10000,InternalTest,Overall,Amplitude A (V peak),V peak,1.232292,1.66869
+10000,InternalTest,Overall,Amplitude B (V peak),V peak,1.121785,1.595732
+10000,InternalTest,Overall,Amplitude C (V peak),V peak,1.17877,1.627928
+10000,InternalTest,Overall,Phase A (deg),deg,0.2049799,0.2943927
+10000,InternalTest,Overall,Phase B (deg),deg,0.2192883,0.3039339
+10000,InternalTest,Overall,Phase C (deg),deg,0.2130869,0.2972848
+10000,InternalTest,Overall,Frequency (Hz),Hz,0.03697513,0.05507865
+10000,InternalTest,Moderate,Amplitude A (V peak),V peak,0.9736128,1.213281
+10000,InternalTest,Moderate,Amplitude B (V peak),V peak,0.8401452,1.08356
+10000,InternalTest,Moderate,Amplitude C (V peak),V peak,0.9013587,1.148356
+10000,InternalTest,Moderate,Phase A (deg),deg,0.1552088,0.2006652
+10000,InternalTest,Moderate,Phase B (deg),deg,0.1692673,0.2135977
+10000,InternalTest,Moderate,Phase C (deg),deg,0.1650755,0.211627
+10000,InternalTest,Moderate,Frequency (Hz),Hz,0.02659497,0.03462006
+10000,InternalTest,Severe,Amplitude A (V peak),V peak,2.171201,2.747422
+10000,InternalTest,Severe,Amplitude B (V peak),V peak,2.144032,2.743564
+10000,InternalTest,Severe,Amplitude C (V peak),V peak,2.18567,2.735459
+10000,InternalTest,Severe,Phase A (deg),deg,0.3856302,0.5050582
+10000,InternalTest,Severe,Phase B (deg),deg,0.4008461,0.5119257
+10000,InternalTest,Severe,Phase C (deg),deg,0.3873508,0.4965905
+10000,InternalTest,Severe,Frequency (Hz),Hz,0.07465123,0.09846028
+10000,CommonTest,Overall,Amplitude A (V peak),V peak,1.171187,1.61546
+10000,CommonTest,Overall,Amplitude B (V peak),V peak,1.143924,1.627277
+10000,CommonTest,Overall,Amplitude C (V peak),V peak,1.21966,1.699511
+10000,CommonTest,Overall,Phase A (deg),deg,0.1942049,0.2732027
+10000,CommonTest,Overall,Phase B (deg),deg,0.21823,0.2986245
+10000,CommonTest,Overall,Phase C (deg),deg,0.1939187,0.2650999
+10000,CommonTest,Overall,Frequency (Hz),Hz,0.03603493,0.05200592
+10000,CommonTest,Moderate,Amplitude A (V peak),V peak,0.9685856,1.217451
+10000,CommonTest,Moderate,Amplitude B (V peak),V peak,0.8920269,1.126706
+10000,CommonTest,Moderate,Amplitude C (V peak),V peak,0.9528912,1.206599
+10000,CommonTest,Moderate,Phase A (deg),deg,0.1544971,0.1993011
+10000,CommonTest,Moderate,Phase B (deg),deg,0.1744045,0.2156265
+10000,CommonTest,Moderate,Phase C (deg),deg,0.1632578,0.2099767
+10000,CommonTest,Moderate,Frequency (Hz),Hz,0.02698521,0.03493398
+10000,CommonTest,Severe,Amplitude A (V peak),V peak,1.974883,2.661293
+10000,CommonTest,Severe,Amplitude B (V peak),V peak,2.143173,2.84897
+10000,CommonTest,Severe,Amplitude C (V peak),V peak,2.277902,2.927581
+10000,CommonTest,Severe,Phase A (deg),deg,0.351721,0.461691
+10000,CommonTest,Severe,Phase B (deg),deg,0.3920809,0.5084198
+10000,CommonTest,Severe,Phase C (deg),deg,0.3155475,0.417327
+10000,CommonTest,Severe,Frequency (Hz),Hz,0.0719341,0.09269521
